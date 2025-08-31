@@ -12,6 +12,12 @@
     "password": "1",
     "expiresAt": "2025-09-10",
     "allowOffline": true
+  },{
+    "id": "55e6a986511b3f53",
+    "username": "chandru",
+    "password": "1",
+    "expiresAt": "2025-09-10",
+    "allowOffline": true
   },
   {
     "id": "android_device_id_2",
