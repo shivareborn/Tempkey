@@ -49,19 +49,13 @@
     "allowOffline": true
   },
   {
-    "id": "4aa44f973c76c9b6",
-    "username": "Anirudh",
-    "password": "1",
-    "expiresAt": "2025-09-15",
-    "allowOffline": true
-  },
-  {
     "id": "3abbee07d0c73aaa",
     "username": "1",
     "password": "1",
     "expiresAt": "2025-09-21",
     "allowOffline": true
   },
+  
   {
     "id": "cd0824d16d09aad1",
     "username": "Adnanapon",
