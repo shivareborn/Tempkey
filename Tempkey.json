@@ -71,6 +71,13 @@
     "allowOffline": true
   },
   {
+    "id": "9b9f1d2f4c720ace",
+    "username": "Ajin",
+    "password": "1",
+    "expiresAt": "2025-09-28",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
