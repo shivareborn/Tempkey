@@ -64,6 +64,13 @@
     "allowOffline": true
   },
   {
+    "id": "21e4752bba3aa7b2",
+    "username": "nabhan",
+    "password": "nabhan11",
+    "expiresAt": "2025-09-28",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
